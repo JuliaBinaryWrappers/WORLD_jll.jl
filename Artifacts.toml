@@ -1,0 +1,113 @@
+[[WORLD]]
+arch = "aarch64"
+git-tree-sha1 = "0c779612ab08ddfc7cb7cc4c06e8cd763a538957"
+libc = "glibc"
+os = "linux"
+
+    [[WORLD.download]]
+    sha256 = "ee50d2618b055e1ba2a91f254abf5712cc0043c20b2259090592d92818ef5c48"
+    url = "https://github.com/JuliaBinaryWrappers/WORLD_jll.jl/releases/download/WORLD-v0.1.0+0/WORLD.v0.1.0.aarch64-linux-gnu.tar.gz"
+[[WORLD]]
+arch = "aarch64"
+git-tree-sha1 = "337674b3337793fa8a741c69b7544c96fd4530d0"
+libc = "musl"
+os = "linux"
+
+    [[WORLD.download]]
+    sha256 = "fba304315c06e204600dc70b608d174ac2b75b20a47bda2775ed34066299a1f2"
+    url = "https://github.com/JuliaBinaryWrappers/WORLD_jll.jl/releases/download/WORLD-v0.1.0+0/WORLD.v0.1.0.aarch64-linux-musl.tar.gz"
+[[WORLD]]
+arch = "armv7l"
+git-tree-sha1 = "3d2927679ccbfc73a7aa29f0232a72fe0718fbf8"
+libc = "glibc"
+os = "linux"
+
+    [[WORLD.download]]
+    sha256 = "1a0a86ddec149691dbd42992678cba2a642f8d868bec520c8412398ab5f828ec"
+    url = "https://github.com/JuliaBinaryWrappers/WORLD_jll.jl/releases/download/WORLD-v0.1.0+0/WORLD.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[WORLD]]
+arch = "armv7l"
+git-tree-sha1 = "9f51752b78b90938643da8e93df430f4dcac49bf"
+libc = "musl"
+os = "linux"
+
+    [[WORLD.download]]
+    sha256 = "48f69fec8c762a19d84f314b89d0038dc46170145697131e90398f7f12b79bd1"
+    url = "https://github.com/JuliaBinaryWrappers/WORLD_jll.jl/releases/download/WORLD-v0.1.0+0/WORLD.v0.1.0.armv7l-linux-musleabihf.tar.gz"
+[[WORLD]]
+arch = "i686"
+git-tree-sha1 = "e8f0e78856f583a9cd5dde9f3b304e6b3a73f3ef"
+libc = "glibc"
+os = "linux"
+
+    [[WORLD.download]]
+    sha256 = "5dbaf6a511b7733df0eeefd6ea21c01bce9ee89cc234286809c9fb72d7131ccf"
+    url = "https://github.com/JuliaBinaryWrappers/WORLD_jll.jl/releases/download/WORLD-v0.1.0+0/WORLD.v0.1.0.i686-linux-gnu.tar.gz"
+[[WORLD]]
+arch = "i686"
+git-tree-sha1 = "5fc304b8096b9fc8890cdaeb1a2365b82935f321"
+libc = "musl"
+os = "linux"
+
+    [[WORLD.download]]
+    sha256 = "adc6cd90c70ecbf007aae4b35e52e1e92bc4f18c702e324cf677f898e00775a9"
+    url = "https://github.com/JuliaBinaryWrappers/WORLD_jll.jl/releases/download/WORLD-v0.1.0+0/WORLD.v0.1.0.i686-linux-musl.tar.gz"
+[[WORLD]]
+arch = "i686"
+git-tree-sha1 = "1659f4788c5fcbee0f38985f4940ac3c4932af41"
+os = "windows"
+
+    [[WORLD.download]]
+    sha256 = "d240174e2fd0671de6d7ba6b3d321710679c11276f46d81b0940529d8f60f7b7"
+    url = "https://github.com/JuliaBinaryWrappers/WORLD_jll.jl/releases/download/WORLD-v0.1.0+0/WORLD.v0.1.0.i686-w64-mingw32.tar.gz"
+[[WORLD]]
+arch = "powerpc64le"
+git-tree-sha1 = "06b432df71fcf4f994426d6f0ab2f63bf1b4e528"
+libc = "glibc"
+os = "linux"
+
+    [[WORLD.download]]
+    sha256 = "843f498b6adba48a69b9f2228854985b80a9a77a608dfa8bcec0ebea8ce23ba7"
+    url = "https://github.com/JuliaBinaryWrappers/WORLD_jll.jl/releases/download/WORLD-v0.1.0+0/WORLD.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+[[WORLD]]
+arch = "x86_64"
+git-tree-sha1 = "899496d32bb128f3d038690374d52c8bf23a727f"
+os = "macos"
+
+    [[WORLD.download]]
+    sha256 = "4178b4de7ff6ebba7763e2ac254b522e4e440160b5725fcbb8f66542d32e870b"
+    url = "https://github.com/JuliaBinaryWrappers/WORLD_jll.jl/releases/download/WORLD-v0.1.0+0/WORLD.v0.1.0.x86_64-apple-darwin14.tar.gz"
+[[WORLD]]
+arch = "x86_64"
+git-tree-sha1 = "af5dab9b89c001a3e43071a32f828a3cc148d699"
+libc = "glibc"
+os = "linux"
+
+    [[WORLD.download]]
+    sha256 = "de3eb6f4edeed4650aa74a91a519af03f134dd8adf63f48b543c3787f57e95f3"
+    url = "https://github.com/JuliaBinaryWrappers/WORLD_jll.jl/releases/download/WORLD-v0.1.0+0/WORLD.v0.1.0.x86_64-linux-gnu.tar.gz"
+[[WORLD]]
+arch = "x86_64"
+git-tree-sha1 = "a6356b8a3e213e109767f9a22bfe6e25edbe2e53"
+libc = "musl"
+os = "linux"
+
+    [[WORLD.download]]
+    sha256 = "0e0f8572f150256d804e6bac1f7de7d6f86bcd831ebbaa0b693d5ed4b568b793"
+    url = "https://github.com/JuliaBinaryWrappers/WORLD_jll.jl/releases/download/WORLD-v0.1.0+0/WORLD.v0.1.0.x86_64-linux-musl.tar.gz"
+[[WORLD]]
+arch = "x86_64"
+git-tree-sha1 = "9e3c68ecc05f903506a962602ddd016bc19c17c0"
+os = "freebsd"
+
+    [[WORLD.download]]
+    sha256 = "4446145b3e2f43f7ee0ae5f6413e90f9f9ce93b32a0881b16a2b34390f0d4ea0"
+    url = "https://github.com/JuliaBinaryWrappers/WORLD_jll.jl/releases/download/WORLD-v0.1.0+0/WORLD.v0.1.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[WORLD]]
+arch = "x86_64"
+git-tree-sha1 = "a679a0450657df61dc5bf28b456abc0dcd1ad949"
+os = "windows"
+
+    [[WORLD.download]]
+    sha256 = "aa3c38eb6b833af2c89e47ac29a80caa7c398a85207e3b0239b487c49a9c23e1"
+    url = "https://github.com/JuliaBinaryWrappers/WORLD_jll.jl/releases/download/WORLD-v0.1.0+0/WORLD.v0.1.0.x86_64-w64-mingw32.tar.gz"
